@@ -1,12 +1,16 @@
 {
   "name": "my-vercel-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "NODE_ENV=development node server.js",
+    "start": "NODE_ENV=production node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
 }
