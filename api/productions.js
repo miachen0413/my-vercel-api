@@ -1,6 +1,6 @@
 export default function handler(req, res) {
   res.status(200).json({
-    production: [{
+    productions: [{
         id: 1,
         name: "A",
         describe: "AAAA",
