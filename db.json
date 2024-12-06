@@ -1,45 +1,68 @@
 {
   "products": [{
-    "id": 1,
-    "name": "A",
-    "describe": "AAAA",
-    "price": 200
-  },
-  {
-    "id": 2,
-    "name": "B",
-    "describe": "BBBB",
-    "price": 100
-  },
-  {
-    "id": 3,
-    "name": "C",
-    "describe": "CCCC",
-    "price": 300
-  },
-  {
-    "id": 2,
-    "name": "B",
-    "describe": "BBBB",
-    "price": 100
-  },
-  {
-    "id": 3,
-    "name": "C",
-    "describe": "CCCC",
-    "price": 300
-  },
-  {
-    "id": 2,
-    "name": "B",
-    "describe": "BBBB",
-    "price": 100
-  },
-  {
-    "id": 3,
-    "name": "C",
-    "describe": "CCCC",
-    "price": 300
-  }
-]
+      "id": 1,
+      "name": "A",
+      "describe": "AAAA",
+      "price": 200,
+      "img_name": "A.jpg"
+    },
+    {
+      "id": 2,
+      "name": "B",
+      "describe": "BBBB",
+      "price": 100,
+      "img_name": "B.jpg"
+    },
+    {
+      "id": 3,
+      "name": "C",
+      "describe": "CCCC",
+      "price": 300,
+      "img_name": "C.jpg"
+    },
+    {
+      "id": 4,
+      "name": "B",
+      "describe": "BBBB",
+      "price": 100,
+      "img_name": "A.jpg"
+    },
+    {
+      "id": 5,
+      "name": "C",
+      "describe": "CCCC",
+      "price": 300,
+      "img_name": "B.jpg"
+    },
+    {
+      "id": 6,
+      "name": "B",
+      "describe": "BBBB",
+      "price": 100,
+      "img_name": "B.jpg"
+    },
+    {
+      "id": 7,
+      "name": "C",
+      "describe": "CCCC",
+      "price": 300,
+      "img_name": "C.jpg"
+    }
+  ],
+  "advertises": [{
+      "id": 1,
+      "url": "",
+      "img": ""
+    },
+    {
+      "id": 2,
+      "url": "",
+      "img": ""
+    },
+    {
+      "id": 3,
+      "url": "",
+      "img": ""
+    }
+  ]
 }
