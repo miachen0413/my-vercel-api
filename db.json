@@ -52,17 +52,22 @@
   "advertises": [{
       "id": 1,
       "url": "",
-      "img": ""
+      "img": "rule.jpeg"
     },
     {
       "id": 2,
       "url": "",
-      "img": ""
+      "img": "ad1.jpg"
     },
     {
       "id": 3,
       "url": "",
-      "img": ""
+      "img": "ad2.jpg"
+    },
+    {
+      "id": 4,
+      "url": "",
+      "img": "ad3.jpg"
     }
   ]
 }
